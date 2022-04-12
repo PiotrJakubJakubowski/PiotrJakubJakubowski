@@ -1,14 +1,35 @@
-- 👋 Hi, I’m @PiotrJakubJakubowski
-- 👀 I am interested in programming with .NET technology. I already know the basics of programming in this technology, but would like to learn more.
-- 🌱 I’m currently learning courses on Udemy platform:
+👋 Cześć, jestem Piotrek :D  @PiotrJakubJakubowski
+<br />
+<br />
+👀 Interesuję się technologią .NET, podczas studiowania udało mi się poznać podstawy programowania obiektowego w tej technologii, język C#, wykorzystanie relacyjnych baz danych, tworzenie diagramów UML, czy wzorców projektowych. Chciałbym dalej rozwijać swoje umiejętności w programowaniu. 
+<br />
+<br />
+🌱 Aktualnie uczę się korzystając z materiałów dostępnych na platformie Udemy:
   <br />
   "Praktyczny kurs ASP.NET Core REST Web API od podstaw (C#)"
   <br />
   "ASP.NET Core 5.0 MVC The Beginners Guide To Becoming A Pro"
   <br />
-- I also created a lot of hobby projects, please check out my repositories :D
-- 💞️ I’m looking to collaborate on creating internet applications. I would like to develop my skills.
-- 📫 How to reach me:
+  <br />
+Wykonałem już kilkanaście projektów z wykorzystaniem znanych mi technologii, część z nich znajduje się w moim repozytorium.
+<br />
+Wykorzystywane technologie:
+* C#
+* ASP.NET MVC
+* Windows Forms
+* ASP.NET Core MVC
+* ASP.NET Core Web Api
+* Entity Framework
+* LINQ
+* MSSQL
+* Git
+* JavaScript
+* HTML
+* CSS
+<br />
+Szukam pracy, która pozwoli mi doskonalić się w tej dziedzinie. W szczególności zależy mi na długotrwałej współpracy. Jestem otwarty na naukę i zdobywanie nowych umiejętności, certyfikatów :).
+<br />
+Kontakt:
   <br />
   https://www.linkedin.com/in/piotr-jakubowski-45634021b/
   <br />
