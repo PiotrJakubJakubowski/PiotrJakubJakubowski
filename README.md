@@ -1,4 +1,4 @@
-👋 Cześć, jestem Piotrek :D  @PiotrJakubJakubowski
+👋 Cześć, jestem @PiotrJakubJakubowski
 <br />
 <br />
 👀 Interesuję się technologią .NET, podczas studiowania udało mi się poznać podstawy programowania obiektowego w tej technologii, język C#, wykorzystanie relacyjnych baz danych, tworzenie diagramów UML, czy wzorców projektowych. Chciałbym dalej rozwijać swoje umiejętności w programowaniu. 
@@ -11,7 +11,7 @@
   "ASP.NET Core 5.0 MVC The Beginners Guide To Becoming A Pro"
   <br />
   <br />
-Wykonałem już kilkanaście projektów z wykorzystaniem znanych mi technologii, część z nich znajduje się w moim repozytorium.
+Wykonałem już kilkanaście projektów z wykorzystaniem znanych mi technologii.
 <br />
 Wykorzystywane technologie:
 * C#
@@ -26,9 +26,6 @@ Wykorzystywane technologie:
 * JavaScript
 * HTML
 * CSS
-<br />
-Szukam pracy, która pozwoli mi doskonalić się w tej dziedzinie. W szczególności zależy mi na długotrwałej współpracy. Jestem otwarty na naukę i zdobywanie nowych umiejętności, certyfikatów :).
-<br />
 Kontakt:
   <br />
   https://www.linkedin.com/in/piotr-jakubowski-45634021b/
